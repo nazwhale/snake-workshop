@@ -1,12 +1,11 @@
-# 🐍Snake workshop
+# 🐍 Snake workshop
 
 ### Vibes!
 
-1. The idea is to have everyone having something to show off by the end
+1. The idea is for everyone to have something to show off and play with
 2. That means no-one will be left behind
-3. We'll gloss over some things and generalize a bit. Some of the code could be neatened up with some clever tricks, but we'll leave those alone for now. This might feel a bit frustrating for some, but it's just too overwhelming to try and learn everything all at once. For now we'll have to let some magic be magic and focus on the essentials. You'll be able to dig deeper after.
-4. The way we're not going to leave people behind is that everyone's going to be unblocking each other in Slack. If you're stuck, post a sentence or a screenshot and everyone else will help to unblock you. The aim of this is to try to get everyone to be self-sufficient.
-5. 🐍
+3. The way we're not going to leave people behind is that everyone's going to be unblocking each other in Slack. If you're stuck, post a sentence or a screenshot and everyone else will help to unblock you. The aim of this is to try to get everyone to be self-sufficient.
+4. We'll gloss over some things and generalise a bit. Some of the code could be neatened up with some clever tricks, but we'll leave those alone for now. This might feel a bit frustrating for some, but it's just too overwhelming to try and learn everything all at once. For now we'll have to let some magic be magic and focus on the essentials ✨
 
 ### Stuff we'll encounter!
 
