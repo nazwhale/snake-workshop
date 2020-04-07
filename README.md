@@ -56,12 +56,15 @@
 
 ### Ideas for after!
 
+- Show the score
 - Make everything all nice and pastel coloured. Go nuts with styling.
 - Ensure the apple doesn't pop up on a square where the snake's already at.
-- Add a box so that you can control the speed without changing the code.
+- Add a box on the web page so that you can control the speed without changing the code.
 - Snake 2 (go through walls).
-- Deploy it to the web with it's own domain name.
+- Translate your code into Python for extra snake points 🐍🐍🐍
 - Import an image of a real apple.
+- Deploy it to the web with it's own domain name
+- Train a machine learning algorithm to play snake 🤖
 - Pay it forward - teach this workshop to someone else!
 
 ### Useful links
